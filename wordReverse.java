@@ -8,6 +8,7 @@ class Main {
     }
     
     return newS;
+  }
   
   public static void main(String[] args) {
     String s = "The weather is amazing today!";
